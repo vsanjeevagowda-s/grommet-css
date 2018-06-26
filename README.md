@@ -5,14 +5,14 @@ Created to use [grommet](https://github.com/grommet/grommet) with [create-react-
 ## Usage
 ### As is
 ```bash
-npm install grommet-css
+npm install --save grommet-hpe-css
 # or
-yarn install grommet-css
+yarn install --save grommet-hpe-css
 ```
 
 in `App.js`
 ```js
-import '../node_modules/grommet-css'
+import '../node_modules/grommet-hpe-css'
 ```
 
 ### Custom
