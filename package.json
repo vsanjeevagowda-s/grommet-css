@@ -1,5 +1,5 @@
 {
-  "name": "grommet-hpe-css",
+  "name": "grommet-hp-css",
   "version": "1.6.1",
   "description": "Standalone css for grommet ui library.",
   "main": "build/index.min.css",
