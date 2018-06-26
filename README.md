@@ -18,6 +18,8 @@ import '../node_modules/grommet-hpe-css'
 ### Custom
 You can also fork this repo, make changes like including a different default grommet style in `index.scss` or tweaking grommet scss variables.
 
+rommet-hpe-css has grommet version 1.11.0
+
 #### Production
 Update the name in `package.json`, run `npm build`, then run `npm publish`
 
